@@ -9,6 +9,6 @@ m = Chem.MolFromSmiles("c1ccccc1-C-c1ccccc1")
 m
 
 import pandas as pd
-df = pd.read_csv('tested_molecules-1.csv',index_col=0)
+df = pd.read_csv('tested_molecules-1.csv')
 df.info()
 #Draw.MolsToGridImage([Chem.MolFromSmiles(s) for s in pu], molsPerRow=4, subImgSize=(200,200), legends=pu)
