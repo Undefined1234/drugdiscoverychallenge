@@ -1,3 +1,7 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
 # drugdiscoverychallenge
 This resporitory contains new ideas about implementing Machine Learning for ALDH1 inhibition. ALDH1 is a well-known enzyme that contributes in various diseases, including cancer, Alzheimer's disease, and cardiovascular disease. This approach of finding new drugs is called Computer Asisted Drug Discovery (CADD). <br>
 This specific resporitory uses a DecisionTree model to find 100 new Inhibitors for ALDH1. The final code that was obtained is visible in <b>main.ipynb</b>.
@@ -16,3 +20,10 @@ This code runs by simply opening the <b>main.ipynb</b> notebook and running all 
 Please see the report for more insights into this research. 
 
 <br><i>For furhter questions please contact group 10</i>
+
+[contributors-shield]: https://img.shields.io/github/contributors/Undefined1234/drugdiscoverychallenge.svg?style=for-the-badge
+[contributors-url]: https://github.com/Undefined1234/drugdiscoverychallenge/contributors
+[stars-shield]: https://img.shields.io/github/stars/Undefined1234/drugdiscoverychallenge.svg?style=for-the-badge
+[stars-url]: https://github.com/Undefined1234/drugdiscoverychallenge/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Undefined1234/drugdiscoverychallenge.svg?style=for-the-badge
+[issues-url]: https://github.com/Undefined1234/drugdiscoverychallenge/issues
